@@ -45,7 +45,7 @@ int main()
 	cin>>a;
     }
 	
-	while((a!='n')&&(a8!='N'));
+	while((a!='n')&&(a!='N'));
 	{
 	
 	cout<<"El auto ganador es el numero: "<<ganador<< ", con un tiempo record de: "<<tganador<<endl;
